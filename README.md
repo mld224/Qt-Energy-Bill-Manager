@@ -34,5 +34,5 @@ Ce projet a été réalisé dans le cadre de la **1ère année de BUT Informatiq
     python main.py
     ```
 
-## 👤 Auteur
+##  Auteur
 **Mamadou Lamine DIALLO** - Étudiant en BUT Informatique (Projet de Semestre 2)
