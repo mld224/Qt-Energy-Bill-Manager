@@ -31,7 +31,7 @@ Ce projet a été réalisé dans le cadre de la **1ère année de BUT Informatiq
     ```
 2.  Lancer l'application :
     ```bash
-    python main.py
+     ./main.py
     ```
 
 ##  Auteur
